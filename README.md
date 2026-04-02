@@ -3,6 +3,7 @@
 Terraform configuration for a secure, highly-available two-tier AWS architecture.
 
 ## Overview
+<img width="1136" height="606" alt="diagram-export-02-04-2026-14_09_12" src="https://github.com/user-attachments/assets/b55fab65-2a6f-4254-8fda-e3f0d01b6742" />
 
 This project automatically provisions a structured AWS environment featuring isolated networking, a public compute layer, and a private database layer.
 
