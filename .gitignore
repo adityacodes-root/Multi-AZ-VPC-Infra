@@ -1,0 +1,9 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+provider.tf
+lab7-key
+lab7-key.pub
+crash.log
+crash.*.log
+*.tfvars
